@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "gw-networks-code"
+name = "gw-networks"
 version = "0.1.0"
 description = ""
 authors = ["Mao Nishino <mao1756@gmail.com>"]
