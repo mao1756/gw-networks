@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.vscode/settings.json
+tests/__pycache__
+gw_networks/__pycache__
